@@ -8,6 +8,7 @@ A ideia desse projeto, é você colocar o texto dos slides, separados em seçõe
 Para rodar o executável realize o build a partir do seu computador.
 O jeito mais fácil de rodar, é usando:
 ```bash
+npm i
 npm run dev
 ```
 Que roda automaticamente. 
