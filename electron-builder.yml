@@ -1,0 +1,12 @@
+appId: com.pedro.com
+productName: text2slide
+copyright: none
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
